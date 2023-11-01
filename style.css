@@ -1,0 +1,50 @@
+.p1 {
+    background-color: #345433;
+}
+
+.name {
+    color:blue;
+    font-size: 30px;
+}
+
+#whatsapp{
+    border: dotted red 3px;
+    border-radius: 12px;
+    background-color: lightgreen;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+#whatsapp:hover{
+    background-color: grey;
+}
+
+.imagebox {
+    border: 3px solid black;
+}
+
+.BigFlex {
+    display: flex;
+    border: 3px dotted black;
+    padding:10%;
+    background-color: gold;
+}
+.BigFlex div {
+    width:500px;
+    height:500px;
+  }
+
+#A {
+    background-color: coral;
+}
+
+#B {
+    background-color: greenyellow;
+}
+
+#A:hover{
+    background-color: greenyellow;
+}
+
+#B:hover{
+    background-color: coral;
+}
